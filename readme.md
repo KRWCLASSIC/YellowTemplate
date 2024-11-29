@@ -3,7 +3,7 @@
 [![Static Badge](https://img.shields.io/badge/Yellow_Toolbox-1.0-yellow)](https://github.com/KRWCLASSIC/YellowTemplate)
 [![Static Badge](https://img.shields.io/badge/Maintainer-KRWCLASSIC-green)](https://github.com/KRWCLASSIC)
 
-This bot is designed to enhance your Discord server experience with a variety of fun and useful features. Below, you'll find an overview of the features, setup instructions, and how to contribute to the project.
+This is template for my "Yellow" bots lineup, u can use it idc
 
 ## Features
 
