@@ -1,6 +1,6 @@
 # Yellow Template `1.0`
 
-[![Static Badge](https://img.shields.io/badge/Yellow_Toolbox-1.0-yellow)](https://github.com/KRWCLASSIC/YellowTemplate)
+[![Static Badge](https://img.shields.io/badge/Yellow_Template-1.0-yellow)](https://github.com/KRWCLASSIC/YellowTemplate)
 [![Static Badge](https://img.shields.io/badge/Maintainer-KRWCLASSIC-green)](https://github.com/KRWCLASSIC)
 
 This is template for my "Yellow" bots lineup, u can use it idc
