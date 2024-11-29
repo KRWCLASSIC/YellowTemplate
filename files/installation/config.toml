@@ -1,0 +1,14 @@
+[settings]
+admin_ids = [696969696969]
+
+# Some files used generally by bot
+[files]
+test = "files/important/urdadismissing.txt"
+# Just good ol' logging
+[telemetry]
+file_path = "files/misc/telemetry.json"
+enabled = true
+
+# Remember to create a token file and paste your bot token there!
+[token]
+token = "files/important/token.txt"
